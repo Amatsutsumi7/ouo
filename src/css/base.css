@@ -953,3 +953,8 @@ body {
 #app {
   padding-top: var(--safe-top);
 }
+
+.nf-badge {
+    display: none !important;
+    visibility: hidden !important;
+}
