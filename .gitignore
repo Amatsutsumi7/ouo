@@ -25,3 +25,6 @@ codebase-structure.md
 *.jpg
 memo-shot-*.png
 
+
+out/
+node_modules/
